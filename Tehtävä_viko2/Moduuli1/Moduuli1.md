@@ -1,4 +1,4 @@
-# tehtävä viko 1
+# tehtävä viko 2
 
 ### tehtävä1
 select *
